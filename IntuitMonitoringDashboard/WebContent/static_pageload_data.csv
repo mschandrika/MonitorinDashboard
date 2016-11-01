@@ -1,0 +1,10 @@
+userTimePeriod,siteReachability,pageLoadTime
+1day,100%,2.19s
+5days,100%,1.5s
+10days,100%,5s
+1month,99%,1.3s
+5months,98%,0.5s
+10months,98%,1s
+1year,98%,0.32s
+5years,97%,2s
+10years,95%,1.1s

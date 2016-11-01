@@ -1,0 +1,5 @@
+<div class="siteInfoBox {{userTimePeriod}}">
+	<div class="centered">{{userTimePeriod}}</div>
+	<div class="symbol">{{siteReachability}}</div>
+	<div class="centered">{{pageLoadTime}}</div>
+</div>

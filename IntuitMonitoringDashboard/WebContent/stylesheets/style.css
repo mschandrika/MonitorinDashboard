@@ -1,0 +1,29 @@
+.siteInfoBox {
+	width: 90px;
+	height: 90px;
+	background-color: lightyellow;
+	border: 1px solid black;
+	margin: 0px auto;
+	padding: 5px;
+	
+}
+	
+.symbol {
+	font-size: 24pt;
+	font-weight: bold;
+	text-align: center;
+}
+	
+.number {
+	font-size: 14pt;
+	text-align: center;
+}
+	
+.centered {
+	text-align: center;
+}
+
+.badquery {
+	background-color: red;
+	color: white;
+}
